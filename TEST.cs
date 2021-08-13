@@ -1,1 +1,1 @@
-Hello world - corrected spelling
+Hello world - corrected spelling.
